@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class prova2 {
+public class ativ2{
 
     public static void main(String[] args) {
 
