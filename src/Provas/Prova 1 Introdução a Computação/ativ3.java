@@ -1,4 +1,4 @@
-public class prova3 {
+public class ativ3 {
 
     public static void main(String[] args) {
 
